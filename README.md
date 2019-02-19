@@ -1,2 +1,2 @@
-this is first file on git-hub
+it's the first file on git-hub
 haha
